@@ -1,12 +1,12 @@
 # ChatGPT 中文版：最新免费直连指南~（支持GPT-4，无需翻墙）【2025年5月更新】
 
-> **更新时间：2025/05/07**           
+> **更新时间：2025/05/08**           
 
 本文提供 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，推荐**国内直连**的 **[ChatGPT 镜像网站](https://chat.lanjing.pro)**，**支持GPT-4，无需翻墙**。   
 本项目为用户提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
-**ChatGPT 镜像网站**：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 镜像网站**：**[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ---
 
